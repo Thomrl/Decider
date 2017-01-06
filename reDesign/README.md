@@ -1,3 +1,3 @@
-# Random-Decider
-My first web app
-This is the first thing I do on gitub. So I might do some weird things :)
+# Decider
+In the reDesign I currently play around with bootstraps navbar.
+So far it looks to be good on PC, but not the best for mobile devices in my opinion.
