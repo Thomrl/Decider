@@ -8,22 +8,41 @@ html, body {
 }
 
 
-
-#uInput {
-	vertical-align: top;
-	height: 70px;
-	word-wrap: break-word;
+.uInput {
+    vertical-align: top;
+    height: 70px;
+    word-wrap: break-word;
     resize: none;
     background-color: #444444;
     border-color: #ffa500;
     color: white;
-	width: 98%;
+    width: 98%;
     border-radius: 5px;
     font-weight: bold;
     margin-bottom: 5px;
 }
 
-#uInput:focus {
+.uInput:focus {
+    border-color: #ffffff;
+    outline: none !important;
+}
+
+.inputs {
+    vertical-align: top;
+    text-align: center;
+    height: 70px;
+    word-wrap: break-word;
+    resize: none;
+    background-color: #444444;
+    border-color: #ffa500;
+    color: white;
+    width: 49%;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.inputs:focus {
     border-color: #ffffff;
     outline: none !important;
 }
