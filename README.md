@@ -1,4 +1,4 @@
-# Merge - Read this if you use this
+# Merge - Read if you use this
 I have chosen to merge this repository and the original Random-Decider repository I made to begin with.
 
 I wasnt sure of how to use github to begin with and this has made it a little confusing.
