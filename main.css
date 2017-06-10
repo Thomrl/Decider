@@ -7,6 +7,9 @@ html, body {
     color: #ffa500;
 }
 
+.red {
+  color: red;
+}
 
 .uInput {
     vertical-align: top;
